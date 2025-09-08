@@ -1,5 +1,12 @@
 # Solr Working Vision
 
+* [Why a vision?](#why-a-vision)
+* [What is a vision?](#what-is-a-vision)
+* [What do you mean by "working"?](#what-do-you-mean-by-working)
+* ["Working" process](#working-process)
+* [First iteration output](#first-iteration-output)
+* [What's next? / Contributing](#whats-next--contributing)
+
 ## Why a vision?
 It's nice to have some consensus - or rather, an ongoing discussion towards a consensus - about where an OSS project is going.
 
@@ -37,14 +44,32 @@ Questions are divided in categories:
 7. Vision - What are the aspirational points on the Horizon worth pursuing?
 8. Roadmap - What are the important work items that would get us there?
 
-In our first iteration, we used additional ideas and inputs from LLMs to help us with our brainstorming. You'll find them... [TODO - separate folders? I would use one folder for each question, with the expansion of each question in the README and the LLM response in a sub-folder].
+In our first iteration, we used additional ideas and inputs from LLMs to help us with our brainstorming. You'll find them, along with the comments of the working group, in the [working-answers](working-answers) folder.
 
-We also asked the community about various items related to 1-6 in a survey. We think the survey is also worth iterating on (like the vision does), so that it serves as a good feedback mechanism.
+We also asked the community about various items related to 1-6 in a [survey](https://docs.google.com/document/d/1qK3Zkm_T1c_aewrjL3N1k0EqmvA-gl3CdFcpuB0XT0I/edit). We think the survey is also worth iterating on (like the vision does), so that it serves as a good feedback mechanism.
 
 Lastly, we want to package the answers to 1-7 for each iteration and present them to the community, inviting discussions and further iterations&contributions. It's not the output itself that matters most, but the ongoing effort to allign the community and write down where we are and where we want to go.
 
 ## First iteration output
-[TODO] I'd put here a ToC with the questions, and links from each question to a file with the group response to that question. All these files would go into an "output" folder. And then we can have one branch per year. Or should we have dated folders (e.g. 2025, 2026...)
+Check out our comments for each question in the [working-answers](working-answers) folder.
 
-## Contributing
-[TODO] This is our call to action, where we invite people to contribute and sign themselves up for the next iteration. I don't have a clear idea now about how this should look like - any suggestions are welcome. I assume we'll also want to put the output on solr.apache.org somewhere, during an iteration where we feel like this is representative enough for the whole community.
+TL;DR version:
+1. Problem domain: Information retrieval, mainly looking at BM25, neural and hybrid search.
+2. Current Solr capabilities: A whole lot 🙂
+3. Current user base: Somewhat captured in [survey results](https://docs.google.com/document/d/1qK3Zkm_T1c_aewrjL3N1k0EqmvA-gl3CdFcpuB0XT0I/edit?usp=sharing).
+4. Competitive comparison: mainly looking at Elasticsearch and OpenSearch, but also others. Error 500 while trying to summarize, too much to say 😅
+5. Domain evolution: semantic search, data discovery and visualization, kubernetes, relevance testing, stability at scale.
+6. Let's break it down:
+    * Attract: pluggability, apache governance, solr operator, flexibility, scalability.
+    * Retain: pluggability, hard to migrate, community.
+    * Deter: usability, perception of Solr dying, ZK dependency.
+    * Disaffect: AI-related features are behind, stability at scale.
+7. Vision: Scalable, easy to use, oss swiss-army-knife for the world's most challenging retrieval use cases.
+8. Roadmap around the following themes: usability & developer experience, AI & next-gen retrieval, performance & scalability, community & ecosystem.
+
+## What's next? / Contributing
+If you have ANY feedback, feel free to add it:
+* PRs, issues to this repo.
+* Comments to the [survey GDoc](https://docs.google.com/document/d/1qK3Zkm_T1c_aewrjL3N1k0EqmvA-gl3CdFcpuB0XT0I/edit?usp=sharing).
+
+Ideally, participate to the next iteration or somehow signal your position. We'd like to make sure that this working vision is representative enough for the whole community, with the end goal of putting [the latest version] on [solr.apache.org](https://solr.apache.org/) somewhere.
