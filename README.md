@@ -1,4 +1,4 @@
-# Solr Working Vision =)
+# Solr Working Vision
 
 * [Why a vision?](#why-a-vision)
 * [What is a vision?](#what-is-a-vision)
@@ -32,23 +32,25 @@ We propose a progression of reflective questions. For each question:
 
 Questions are divided in categories:
 
-### A. Where Solr is Today [Factual]
-1. Problem Domain - What is Solr's (Problem) Domain? What is Search Technology?
-2. Current Offering - What Solr currently offers?
-3. Current User Base - Who is using Solr?
-4. Competitive Comparison - How does Solr compare to its alternatives?
-### B. Where things may be going [Opinionated]
-5. Domain Evolution - In Solr's Problem Domain, what is changing (shifting/evolving/happening)?
-6. Attract & Retain / Deter & Disaffect - Who & Why - What is Solr’s current ability to Attract & Retain and current tendency to Deter & Disaffect?
-### C. Where we would like to see things go [Strategic]
-7. Vision - What are the aspirational points on the Horizon worth pursuing?
-8. Roadmap - What are the important work items that would get us there?
+### A. Where Solr is Today <span style="font-weight: normal;">→ Factual</span>
+1. <span style="color: #1e40af;">**Problem Domain**</span> - What is Solr's (Problem) Domain? What is Search Technology?
+2. <span style="color: #1e40af;">**Current Offering**</span> - What Solr currently offers?
+3. <span style="color: #1e40af;">**Current User Base**</span> - Who is using Solr?
+4. <span style="color: #1e40af;">**Competitive Comparison**</span> - How does Solr compare to its alternatives?
+### B. Where things may be going <span style="font-weight: normal;">→ Opinionated</span>
+5. <span style="color: #991b1b;">**Domain Evolution**</span> - In Solr's Problem Domain, what is changing (shifting/evolving/happening)?
+6. <span style="color: #991b1b;">**Attract & Retain / Deter & Disaffect**</span> - What is Solr's current ability to Attract & Retain and current tendency to Deter & Disaffect?
+### C. Where we would like to see things go <span style="font-weight: normal;">→ Strategic</span>
+7. <span style="color: #166534;">**Working Vision**</span> - What are the aspirational points on the Horizon worth pursuing?
+8. <span style="color: #166534;">**Roadmap**</span> - What are the important work items that would get us there?
 
 In our first iteration, we used additional ideas and inputs from LLMs to help us with our brainstorming. You'll find them, along with the comments of the working group, in the [working-answers](working-answers) folder.
 
+#### Survey
 We also asked the community about various items related to 1-6 in a [survey](https://docs.google.com/document/d/1qK3Zkm_T1c_aewrjL3N1k0EqmvA-gl3CdFcpuB0XT0I/edit). We think the survey is also worth iterating on (like the vision does), so that it serves as a good feedback mechanism.
 
-Lastly, we want to package the answers to 1-7 for each iteration and present them to the community, inviting discussions and further iterations&contributions. It's not the output itself that matters most, but the ongoing effort to allign the community and write down where we are and where we want to go.
+#### Package output, get feedback, get contributors
+We want to package the answers to 1-8 for each iteration and present them to the community, inviting discussions and further iterations&contributions. It's not the output itself that matters most, but the ongoing effort to allign the community and write down where we are and where we want to go.
 
 ## First iteration output
 Check out our comments for each question in the [working-answers](working-answers) folder.
