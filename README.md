@@ -1,4 +1,4 @@
-# Solr Working Vision
+# Solr Working Vision =)
 
 * [Why a vision?](#why-a-vision)
 * [What is a vision?](#what-is-a-vision)
