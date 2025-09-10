@@ -4,8 +4,8 @@
 * [What is a Vision?](#what-is-a-vision)
 * [What Do We Mean by "Working"?](#what-do-you-mean-by-working)
 * ["Working" Process](#working-process)
-* [First iteration output](#first-iteration-output)
-* [What's next? / Contributing](#whats-next--contributing)
+* [First Iteration Output](#first-iteration-output)
+* [What's Next & How to Contribute](#whats-next--contributing)
 
 ## Why a Vision?
 Having a shared vision, or at least an ongoing discussion toward one, helps align the Solr community around where the project is headed.
@@ -52,19 +52,19 @@ Questions are divided in categories:
 2. 📦 <span style="color: #1e40af;">**Current Offering**</span> - What Solr currently offers?
 3. 👥 <span style="color: #1e40af;">**Current User Base**</span> - Who is using Solr?
 4. ⚖️ <span style="color: #1e40af;">**Competitive Comparison**</span> - How does Solr compare to its alternatives?
-### B. Where things may be going <span style="font-weight: normal;">→ Opinionated</span>
+### B. Where Things May Be Going <span style="font-weight: normal;">→ Opinionated</span>
 5. 🚀 <span style="color: #991b1b;">**Domain Evolution**</span> - In Solr's Problem Domain, what is changing (shifting/evolving/happening)?
 6. ⬆️⬇️ <span style="color: #991b1b;">**Attract & Retain / Deter & Disaffect**</span> - What is Solr's current ability to Attract & Retain and current tendency to Deter & Disaffect?
-### C. Where we would like to see things go <span style="font-weight: normal;">→ Strategic</span>
+### C. Where We Would Like to See Solr Go <span style="font-weight: normal;">→ Strategic</span>
 7. 🔮 <span style="color: #166534;">**Working Vision**</span> - What are the aspirational points on the Horizon worth pursuing?
 8. 📈 <span style="color: #166534;">**Roadmap**</span> - What are the important work items that would get us there?
 
 In our first iteration, we used additional ideas and inputs from LLMs to help us with our brainstorming. You'll find them, along with the comments of the working group, in the [working-answers](working-answers) folder.
 
-#### Survey
+### Survey
 We also asked the community about various items related to 1-6 in a [survey](https://docs.google.com/document/d/1qK3Zkm_T1c_aewrjL3N1k0EqmvA-gl3CdFcpuB0XT0I/edit). We think the survey is also worth iterating on (like the vision does), so that it serves as a good feedback mechanism.
 
-#### Package output, get feedback, get contributors
+### Package output, get feedback, get contributors
 We want to package the answers to 1-8 for each iteration and present them to the community, inviting discussions and further iterations&contributions. It's not the output itself that matters most, but the ongoing effort to allign the community and write down where we are and where we want to go.
 
 ## First iteration output
@@ -84,9 +84,11 @@ TL;DR version:
 7. Vision: Scalable, easy to use, oss swiss-army-knife for the world's most challenging retrieval use cases.
 8. Roadmap around the following themes: usability & developer experience, AI & next-gen retrieval, performance & scalability, community & ecosystem.
 
-## What's next? / Contributing
-If you have ANY feedback, feel free to add it:
-* PRs, issues to this repo.
-* Comments to the [survey GDoc](https://docs.google.com/document/d/1qK3Zkm_T1c_aewrjL3N1k0EqmvA-gl3CdFcpuB0XT0I/edit?usp=sharing).
+## What's Next & How to Contribute
+We’d love your input!  
 
-Ideally, participate to the next iteration or somehow signal your position. We'd like to make sure that this working vision is representative enough for the whole community, with the end goal of putting [the latest version] on [solr.apache.org](https://solr.apache.org/) somewhere.
+Ways to contribute:
+* Submit PRs or issues in this repo.  
+* Comment directly on the [survey document](https://docs.google.com/document/d/1qK3Zkm_T1c_aewrjL3N1k0EqmvA-gl3CdFcpuB0XT0I/edit?usp=sharing).  
+
+Better yet: join the next iteration. The ultimate goal is to ensure this vision reflects the **whole community** and publish the latest version on [solr.apache.org](https://solr.apache.org/).  
