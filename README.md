@@ -8,7 +8,7 @@
 * [What's next? / Contributing](#whats-next--contributing)
 
 ## Why a Vision?
-Having a shared vision—or at least an ongoing discussion toward one—helps align the Solr community around where the project is headed.
+Having a shared vision, or at least an ongoing discussion toward one, helps align the Solr community around where the project is headed.
 
 This is good for:
 * **Existing community**. To know if it alligns with their objectives and opinions. For example, is it worth contributing more or are their priorities diverging?
