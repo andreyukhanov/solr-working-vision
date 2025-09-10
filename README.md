@@ -67,6 +67,8 @@ We also asked the community about various items related to 1-6 in a [survey](htt
 ### Package output, get feedback, get contributors
 We want to package the answers to 1-8 for each iteration and present them to the community, inviting discussions and further iterations&contributions. It's not the output itself that matters most, but the ongoing effort to allign the community and write down where we are and where we want to go.
 
+---
+
 ## First iteration output
 Check out our comments for each question in the [working-answers](working-answers) folder.
 
@@ -83,6 +85,8 @@ TL;DR version:
     * Disaffect: AI-related features are behind, stability at scale.
 7. Vision: Scalable, easy to use, oss swiss-army-knife for the world's most challenging retrieval use cases.
 8. Roadmap around the following themes: usability & developer experience, AI & next-gen retrieval, performance & scalability, community & ecosystem.
+
+---
 
 ## What's Next & How to Contribute
 We’d love your input!  
