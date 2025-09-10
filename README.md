@@ -25,7 +25,7 @@ Terminology can be different to different people, but for the purpose of this di
 * **Vision** → A specific, long-term goal: aspirational, measurable, and achievable.
    * Example: we want to climb Kilimanjaro and experience all the climates.
      
-* **Roadmap**  The concrete steps required to reach the vision.
+* **Roadmap** → The concrete steps required to reach the vision.
    * Example: we need to find sponsors, buy tickets, train, etc.
 
 ---
