@@ -1,31 +1,46 @@
 # Solr Working Vision
 
-* [Why a vision?](#why-a-vision)
-* [What is a vision?](#what-is-a-vision)
-* [What do you mean by "working"?](#what-do-you-mean-by-working)
-* ["Working" process](#working-process)
+* [Why a Vision?](#why-a-vision)
+* [What is a Vision?](#what-is-a-vision)
+* [What Do We Mean by "Working"?](#what-do-you-mean-by-working)
+* ["Working" Process](#working-process)
 * [First iteration output](#first-iteration-output)
 * [What's next? / Contributing](#whats-next--contributing)
 
-## Why a vision?
-It's nice to have some consensus - or rather, an ongoing discussion towards a consensus - about where an OSS project is going.
+## Why a Vision?
+Having a shared vision—or at least an ongoing discussion toward one—helps align the Solr community around where the project is headed.
 
 This is good for:
-* **Existing community**. To know if it alligns with their objectives and opinions. For example, is it worth contributing more or is it a waste of my time?
+* **Existing community**. To know if it alligns with their objectives and opinions. For example, is it worth contributing more or are their priorities diverging?
 * **New people**. When choosing a technology, many people consider not only what it can currently do, but where it's going. For example, the features I'm interested in can be actively developed or look like unmaintained legacies.
 
-## What is a vision?
+---
+
+## What is a Vision?
 Terminology can be different to different people, but for the purpose of this discussion, we need to differentiate mission, vision and roadmap:
-* A **mission** is the general direction and is often open-ended. E.g., we're climbing the nicest mountains to enjoy the view.
-* A **vision** is a long-term goal, achievable and measurable, but still concise and aspirational. E.g., we want to climb Kilimanjaro and experience all the climates.
-* A **roadmap** is the list of detailed steps that get us to the vision. We need to find sponsors, buy tickets, train, etc.
 
-## What do you mean by "working"?
-It means it's not static. We want **iterations**. Because:
-* It's **unlikely to get it right on the first try**. That is, have a vision that represents the Solr community as a whole.
-* Even if we do, things change: both the community itself (users and contributors come and go) and its requirements (e.g., time-series analysis, vector search, agents...).
+* **Mission** → Broad, open-ended direction.
+  * Example: we're climbing the nicest mountains to enjoy the view.
 
-## "Working" process
+* **Vision** → A specific, long-term goal: aspirational, measurable, and achievable.
+   * Example: we want to climb Kilimanjaro and experience all the climates.
+     
+* **Roadmap**  The concrete steps required to reach the vision.
+   * Example: we need to find sponsors, buy tickets, train, etc.
+
+---
+
+## What Do We Mean by "Working"?
+By “working,” we mean the vision is **iterative, not static**.  
+
+* We almost certainly won’t get it right on the first attempt.  
+* Even if we did, the community evolves: users come and go, contributors change, and new requirements emerge (e.g., time-series analysis, vector search, AI agents).
+
+A working vision adapts with the project and its people.
+
+---
+
+## "Working" Process
 We propose a progression of reflective questions. For each question:
 * Each contributor provides input independently.
 * Contributors then meet to discuss inputs towards some consensus.
