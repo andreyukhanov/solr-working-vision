@@ -46,6 +46,8 @@ A working vision adapts with the project and its people.
 
 ## "Working" Process
 
+![Solr Working Vision Process Diagram](Solr%20Working%20VIsion%20Process.png)
+
 We propose a progression of reflective questions. For each question:
 
 * Each contributor provides input independently.
