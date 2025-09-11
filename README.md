@@ -13,7 +13,7 @@ Having a shared vision, or at least an ongoing discussion toward one, helps alig
 
 This is good for:
 
-* **Existing community**. To know if it alligns with their objectives and opinions. For example, is it worth contributing more or are their priorities diverging?
+* **Existing community**. To know if it aligns with their objectives and opinions. For example, is it worth contributing more or are their priorities diverging?
 * **New people**. When choosing a technology, many people consider not only what it can currently do, but where it's going. For example, the features I'm interested in can be actively developed or look like unmaintained legacies.
 
 ---
@@ -64,6 +64,7 @@ Questions are divided in categories:
 
 5. 🚀 <span style="color: #991b1b;">**Domain Evolution**</span> - In Solr's Problem Domain, what is changing (shifting/evolving/happening)?
 6. ⬆️⬇️ <span style="color: #991b1b;">**Attract & Retain / Deter & Disaffect**</span> - What is Solr's current ability to Attract & Retain and current tendency to Deter & Disaffect?
+7. ✅ <span style="color: #991b1b;">**Community Survey**</span> - To verify what we can of what we discussed above with the larger search community.
 
 ### C. Where We Would Like to See Solr Go <span style="font-weight: normal;">→ Strategic</span>
 
@@ -72,13 +73,9 @@ Questions are divided in categories:
 
 In our first iteration, we used additional ideas and inputs from LLMs to help us with our brainstorming. You'll find them, along with the comments of the working group, in the [working-answers](working-answers) folder.
 
-### Survey
-
-We also asked the community about various items related to 1-6 in a [survey](https://docs.google.com/document/d/1qK3Zkm_T1c_aewrjL3N1k0EqmvA-gl3CdFcpuB0XT0I/edit). We think the survey is also worth iterating on (like the vision does), so that it serves as a good feedback mechanism.
-
 ### Package output, get feedback, get contributors
 
-We want to package the answers to 1-8 for each iteration and present them to the community, inviting discussions and further iterations&contributions. It's not the output itself that matters most, but the ongoing effort to allign the community and write down where we are and where we want to go.
+We want to package the answers to 1-9 for each iteration and present them to the community, inviting discussions and further iterations&contributions. It's not the output itself that matters most, but the ongoing effort to align the community and write down where we are and where we want to go.
 
 ---
 
@@ -98,8 +95,9 @@ TL;DR version:
     * Retain: pluggability, hard to migrate, community.
     * Deter: usability, perception of Solr dying, ZK dependency.
     * Disaffect: AI-related features are behind, stability at scale.
-7. Vision: Scalable, easy to use, oss swiss-army-knife for the world's most challenging retrieval use cases.
-8. Roadmap around the following themes: usability & developer experience, AI & next-gen retrieval, performance & scalability, community & ecosystem.
+7. [Current iteration of survey results are here](https://docs.google.com/document/d/1qK3Zkm_T1c_aewrjL3N1k0EqmvA-gl3CdFcpuB0XT0I/edit). Feel free to comment!
+8. Vision: Scalable, easy to use, oss swiss-army-knife for the world's most challenging retrieval use cases.
+9. Roadmap around the following themes: usability & developer experience, AI & next-gen retrieval, performance & scalability, community & ecosystem.
 
 ---
 
